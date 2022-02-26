@@ -1,6 +1,25 @@
-title: Minimal theme
+title: <p align="center"> Muniaraja Murugan </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/muniaraja-murugan-b9100556/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  Head of Digital Platforms, Engineering and Csutomer Experiences Transformation 
+ Self-motivated and Innovative Customer Experience, Product and Engineering leader with over 18+ years of IT experience, 
+ having 10+ years  of experience in leading Customer, Employee Experiences, Large Digital Transformation Programs, 
+ Product Management, Consulting and Engineering teams with a strong focus on C-Suite relationship building and a proven track 
+ record of delivering mission-critical results. Achieved success through strategic thinking, strong leadership, and innovation. 
+ Developed high performance teams by hiring, recruiting, training, and motivating. Having good judgement and problem-solving 
+ skills with humility, empathy, and positivity to fly above the chaos and to recognize patterns, opportunities, and efficiencies. 
+ Extensive experience in strategic planning and execution of big Digital Transformation programs and Digital Innovation initiatives 
+ with strong domain and technology expertise
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
